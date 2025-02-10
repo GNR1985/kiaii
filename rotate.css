@@ -20,6 +20,9 @@ body {
     border-radius: 20px;
 
 }
+.seta button{
+	background:none;
+}
 .botao a{
 	text-decoration: none;
 	display: flex;
