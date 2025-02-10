@@ -4,7 +4,7 @@
    box-sizing: border-box;
 }
 body {
-  background-image: url("./images/leonardoias.jpg");
+  background-image: url("Leonardoias.jpg");
   background-repeat: no-repeat;
   background-size: cover; /* Garante que a imagem cubra toda a tela */
   background-position: center; /* Centraliza a imagem */
