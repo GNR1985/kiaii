@@ -19,11 +19,7 @@ document.querySelectorAll(".item-menu").forEach(item => {
   });
 });
 
-  function trocar(novaImg, id) {
-    console.log('Imagem sendo trocada para: ' + novaImg);
-    let figura = document.getElementById(id);
-    figura.src = novaImg;
-  }
+
 button.addEventListener("click", function() {
     modal.style.display = "block";
 });
